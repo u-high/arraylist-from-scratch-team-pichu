@@ -15,7 +15,7 @@ public class AArrayList
   
   public int get(int index)
   {
-    return ray[index];
+    return ray[index];           //i'm in your filez makin the commentz
   }
   
   public void add(int temp)
@@ -37,7 +37,7 @@ public class AArrayList
   
   public String toString()
   {
-    return Arrays.toString(ray);
+    return Arrays.toString(ray);    //catz
   }
 }
   
